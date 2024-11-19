@@ -1,0 +1,24 @@
+{
+  "name": "ethinic-username-generator",
+  "version": "1.0.0",
+  "description": "a simple package that help in generating thinic username",
+  "main": "generator.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elvis-pro/username-generator.git"
+  },
+  "keywords": [
+    "[\"username\"",
+    "\"generator\"",
+    "\"usernames\"]"
+  ],
+  "author": "elvis-david",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/elvis-pro/username-generator/issues"
+  },
+  "homepage": "https://github.com/elvis-pro/username-generator#readme"
+}
